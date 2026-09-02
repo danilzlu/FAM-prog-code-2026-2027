@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+int factorial(int n);
+
+int main(void) {
+
+    printf("%d\n", factorial(2));
+
+    return 0;
+}
 
 int factorial(int n) {
     int result = 1;
@@ -7,13 +15,4 @@ int factorial(int n) {
         result *= i;
     }
     return result;
-}
-
-
-int main(void) {
-
-    printf("%d\n", factorial(2));
-
-
-    return 0;
 }
