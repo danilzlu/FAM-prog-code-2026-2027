@@ -5,7 +5,8 @@
  * и выводит количество цифр этого числа.
  * 
  * ISSUES:
- *          - Wrong answer, when number == 0. [1 expected, 0 got].
+ * - Wrong answer when number == 0:
+ *   expected 1, got 0.
  */
 
 #include <stdio.h>
