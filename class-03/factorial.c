@@ -10,9 +10,9 @@ int main(void) {
 }
 
 int factorial(int n) {
-    int result = 1;
+    int res = 1;
     for (int i = 2; i <= n; i++) {
-        result *= i;
+     res *= i;
     }
-    return result;
+    return res;
 }
