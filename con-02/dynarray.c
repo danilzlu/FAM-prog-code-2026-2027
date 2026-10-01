@@ -32,7 +32,7 @@ int main(void)
         scanf("%d", &buffer);
 
         if (sz == cap) {
-            arr_ptr = realloc(arr_ptr, (cap*2) * sizeof(int ));
+            arr_ptr = realloc(arr_ptr, (cap*2) * sizeof(int )); // проблема был тут !!!
             cap *= 2;
         }
 
