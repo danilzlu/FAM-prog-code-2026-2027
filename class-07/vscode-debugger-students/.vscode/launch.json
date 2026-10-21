@@ -1,0 +1,44 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "macOS — Clang + LLDB",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "preLaunchTask": "Build C (macOS / Clang)"
+    },
+    {
+      "name": "Linux — GCC + GDB (включая WSL)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "preLaunchTask": "Build C (Linux / GCC)",
+      "setupCommands": [{ "description": "Enable pretty-printing", "text": "-enable-pretty-printing", "ignoreFailures": true }]
+    },
+    {
+      "name": "Windows — WinLibs GCC + GDB",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\winlibs\\mingw64\\bin\\gdb.exe",
+      "preLaunchTask": "Build C (Windows / WinLibs GCC)",
+      "setupCommands": [{ "description": "Enable pretty-printing", "text": "-enable-pretty-printing", "ignoreFailures": true }]
+    }
+  ]
+}
