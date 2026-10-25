@@ -1,0 +1,6 @@
+rows 3
+columns 4
+0 "a" DOUBLE
+1 "b" INT
+2 "c" DOUBLE
+3 "d" DOUBLE

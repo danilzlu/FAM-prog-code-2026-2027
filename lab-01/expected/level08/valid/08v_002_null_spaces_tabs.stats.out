@@ -1,0 +1,29 @@
+rows 3
+columns 3
+
+column 0
+name "a"
+type INT
+nulls 0
+min 1
+max 7
+mean 4.000000
+positive 3
+negative 0
+even 1
+
+column 1
+name "b"
+type NULL
+rows 3
+
+column 2
+name "c"
+type INT
+nulls 0
+min 3
+max 9
+mean 6.000000
+positive 3
+negative 0
+even 1

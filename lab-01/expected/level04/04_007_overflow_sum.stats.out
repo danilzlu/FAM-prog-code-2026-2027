@@ -1,0 +1,13 @@
+rows 4
+columns 1
+
+column 0
+name "value"
+type INT
+nulls 0
+min -9223372036854775808
+max 9223372036854775807
+mean 0.000000
+positive 2
+negative 2
+even 2

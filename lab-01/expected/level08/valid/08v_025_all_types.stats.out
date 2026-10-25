@@ -1,0 +1,38 @@
+rows 4
+columns 4
+
+column 0
+name "allnull"
+type NULL
+rows 4
+
+column 1
+name "intcol"
+type INT
+nulls 0
+min -2
+max 4
+mean 0.750000
+positive 2
+negative 1
+even 3
+
+column 2
+name "doublecol"
+type DOUBLE
+nulls 0
+min 1.500000
+max 4.000000
+mean 2.687500
+positive 4
+negative 0
+integer 2
+
+column 3
+name "stringcol"
+type STRING
+nulls 0
+min_length 0
+max_length 5
+mean_length 2.750000
+empty 1

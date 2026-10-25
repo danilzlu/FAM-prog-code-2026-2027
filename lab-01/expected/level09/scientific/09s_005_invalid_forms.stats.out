@@ -1,0 +1,11 @@
+rows 7
+columns 1
+
+column 0
+name "value"
+type STRING
+nulls 0
+min_length 2
+max_length 7
+mean_length 3.714286
+empty 0

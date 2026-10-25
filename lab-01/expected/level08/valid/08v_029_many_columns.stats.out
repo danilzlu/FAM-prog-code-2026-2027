@@ -1,0 +1,2302 @@
+rows 3
+columns 256
+
+column 0
+name "c0"
+type NULL
+rows 3
+
+column 1
+name "c1"
+type INT
+nulls 0
+min 1
+max 3
+mean 2.000000
+positive 3
+negative 0
+even 1
+
+column 2
+name "c2"
+type DOUBLE
+nulls 0
+min 2.500000
+max 4.500000
+mean 3.500000
+positive 3
+negative 0
+integer 0
+
+column 3
+name "c3"
+type STRING
+nulls 0
+min_length 6
+max_length 6
+mean_length 6.000000
+empty 0
+
+column 4
+name "c4"
+type STRING
+nulls 0
+min_length 3
+max_length 3
+mean_length 3.000000
+empty 0
+
+column 5
+name "c5"
+type NULL
+rows 3
+
+column 6
+name "c6"
+type INT
+nulls 0
+min 6
+max 8
+mean 7.000000
+positive 3
+negative 0
+even 2
+
+column 7
+name "c7"
+type DOUBLE
+nulls 0
+min 7.500000
+max 9.500000
+mean 8.500000
+positive 3
+negative 0
+integer 0
+
+column 8
+name "c8"
+type STRING
+nulls 0
+min_length 6
+max_length 6
+mean_length 6.000000
+empty 0
+
+column 9
+name "c9"
+type STRING
+nulls 0
+min_length 3
+max_length 3
+mean_length 3.000000
+empty 0
+
+column 10
+name "c10"
+type NULL
+rows 3
+
+column 11
+name "c11"
+type INT
+nulls 0
+min 11
+max 13
+mean 12.000000
+positive 3
+negative 0
+even 1
+
+column 12
+name "c12"
+type DOUBLE
+nulls 0
+min 12.500000
+max 14.500000
+mean 13.500000
+positive 3
+negative 0
+integer 0
+
+column 13
+name "c13"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 14
+name "c14"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 15
+name "c15"
+type NULL
+rows 3
+
+column 16
+name "c16"
+type INT
+nulls 0
+min 16
+max 18
+mean 17.000000
+positive 3
+negative 0
+even 2
+
+column 17
+name "c17"
+type DOUBLE
+nulls 0
+min 17.500000
+max 19.500000
+mean 18.500000
+positive 3
+negative 0
+integer 0
+
+column 18
+name "c18"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 19
+name "c19"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 20
+name "c20"
+type NULL
+rows 3
+
+column 21
+name "c21"
+type INT
+nulls 0
+min 21
+max 23
+mean 22.000000
+positive 3
+negative 0
+even 1
+
+column 22
+name "c22"
+type DOUBLE
+nulls 0
+min 22.500000
+max 24.500000
+mean 23.500000
+positive 3
+negative 0
+integer 0
+
+column 23
+name "c23"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 24
+name "c24"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 25
+name "c25"
+type NULL
+rows 3
+
+column 26
+name "c26"
+type INT
+nulls 0
+min 26
+max 28
+mean 27.000000
+positive 3
+negative 0
+even 2
+
+column 27
+name "c27"
+type DOUBLE
+nulls 0
+min 27.500000
+max 29.500000
+mean 28.500000
+positive 3
+negative 0
+integer 0
+
+column 28
+name "c28"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 29
+name "c29"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 30
+name "c30"
+type NULL
+rows 3
+
+column 31
+name "c31"
+type INT
+nulls 0
+min 31
+max 33
+mean 32.000000
+positive 3
+negative 0
+even 1
+
+column 32
+name "c32"
+type DOUBLE
+nulls 0
+min 32.500000
+max 34.500000
+mean 33.500000
+positive 3
+negative 0
+integer 0
+
+column 33
+name "c33"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 34
+name "c34"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 35
+name "c35"
+type NULL
+rows 3
+
+column 36
+name "c36"
+type INT
+nulls 0
+min 36
+max 38
+mean 37.000000
+positive 3
+negative 0
+even 2
+
+column 37
+name "c37"
+type DOUBLE
+nulls 0
+min 37.500000
+max 39.500000
+mean 38.500000
+positive 3
+negative 0
+integer 0
+
+column 38
+name "c38"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 39
+name "c39"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 40
+name "c40"
+type NULL
+rows 3
+
+column 41
+name "c41"
+type INT
+nulls 0
+min 41
+max 43
+mean 42.000000
+positive 3
+negative 0
+even 1
+
+column 42
+name "c42"
+type DOUBLE
+nulls 0
+min 42.500000
+max 44.500000
+mean 43.500000
+positive 3
+negative 0
+integer 0
+
+column 43
+name "c43"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 44
+name "c44"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 45
+name "c45"
+type NULL
+rows 3
+
+column 46
+name "c46"
+type INT
+nulls 0
+min 46
+max 48
+mean 47.000000
+positive 3
+negative 0
+even 2
+
+column 47
+name "c47"
+type DOUBLE
+nulls 0
+min 47.500000
+max 49.500000
+mean 48.500000
+positive 3
+negative 0
+integer 0
+
+column 48
+name "c48"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 49
+name "c49"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 50
+name "c50"
+type NULL
+rows 3
+
+column 51
+name "c51"
+type INT
+nulls 0
+min 51
+max 53
+mean 52.000000
+positive 3
+negative 0
+even 1
+
+column 52
+name "c52"
+type DOUBLE
+nulls 0
+min 52.500000
+max 54.500000
+mean 53.500000
+positive 3
+negative 0
+integer 0
+
+column 53
+name "c53"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 54
+name "c54"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 55
+name "c55"
+type NULL
+rows 3
+
+column 56
+name "c56"
+type INT
+nulls 0
+min 56
+max 58
+mean 57.000000
+positive 3
+negative 0
+even 2
+
+column 57
+name "c57"
+type DOUBLE
+nulls 0
+min 57.500000
+max 59.500000
+mean 58.500000
+positive 3
+negative 0
+integer 0
+
+column 58
+name "c58"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 59
+name "c59"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 60
+name "c60"
+type NULL
+rows 3
+
+column 61
+name "c61"
+type INT
+nulls 0
+min 61
+max 63
+mean 62.000000
+positive 3
+negative 0
+even 1
+
+column 62
+name "c62"
+type DOUBLE
+nulls 0
+min 62.500000
+max 64.500000
+mean 63.500000
+positive 3
+negative 0
+integer 0
+
+column 63
+name "c63"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 64
+name "c64"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 65
+name "c65"
+type NULL
+rows 3
+
+column 66
+name "c66"
+type INT
+nulls 0
+min 66
+max 68
+mean 67.000000
+positive 3
+negative 0
+even 2
+
+column 67
+name "c67"
+type DOUBLE
+nulls 0
+min 67.500000
+max 69.500000
+mean 68.500000
+positive 3
+negative 0
+integer 0
+
+column 68
+name "c68"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 69
+name "c69"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 70
+name "c70"
+type NULL
+rows 3
+
+column 71
+name "c71"
+type INT
+nulls 0
+min 71
+max 73
+mean 72.000000
+positive 3
+negative 0
+even 1
+
+column 72
+name "c72"
+type DOUBLE
+nulls 0
+min 72.500000
+max 74.500000
+mean 73.500000
+positive 3
+negative 0
+integer 0
+
+column 73
+name "c73"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 74
+name "c74"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 75
+name "c75"
+type NULL
+rows 3
+
+column 76
+name "c76"
+type INT
+nulls 0
+min 76
+max 78
+mean 77.000000
+positive 3
+negative 0
+even 2
+
+column 77
+name "c77"
+type DOUBLE
+nulls 0
+min 77.500000
+max 79.500000
+mean 78.500000
+positive 3
+negative 0
+integer 0
+
+column 78
+name "c78"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 79
+name "c79"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 80
+name "c80"
+type NULL
+rows 3
+
+column 81
+name "c81"
+type INT
+nulls 0
+min 81
+max 83
+mean 82.000000
+positive 3
+negative 0
+even 1
+
+column 82
+name "c82"
+type DOUBLE
+nulls 0
+min 82.500000
+max 84.500000
+mean 83.500000
+positive 3
+negative 0
+integer 0
+
+column 83
+name "c83"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 84
+name "c84"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 85
+name "c85"
+type NULL
+rows 3
+
+column 86
+name "c86"
+type INT
+nulls 0
+min 86
+max 88
+mean 87.000000
+positive 3
+negative 0
+even 2
+
+column 87
+name "c87"
+type DOUBLE
+nulls 0
+min 87.500000
+max 89.500000
+mean 88.500000
+positive 3
+negative 0
+integer 0
+
+column 88
+name "c88"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 89
+name "c89"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 90
+name "c90"
+type NULL
+rows 3
+
+column 91
+name "c91"
+type INT
+nulls 0
+min 91
+max 93
+mean 92.000000
+positive 3
+negative 0
+even 1
+
+column 92
+name "c92"
+type DOUBLE
+nulls 0
+min 92.500000
+max 94.500000
+mean 93.500000
+positive 3
+negative 0
+integer 0
+
+column 93
+name "c93"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 94
+name "c94"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 95
+name "c95"
+type NULL
+rows 3
+
+column 96
+name "c96"
+type INT
+nulls 0
+min 96
+max 98
+mean 97.000000
+positive 3
+negative 0
+even 2
+
+column 97
+name "c97"
+type DOUBLE
+nulls 0
+min 97.500000
+max 99.500000
+mean 98.500000
+positive 3
+negative 0
+integer 0
+
+column 98
+name "c98"
+type STRING
+nulls 0
+min_length 7
+max_length 7
+mean_length 7.000000
+empty 0
+
+column 99
+name "c99"
+type STRING
+nulls 0
+min_length 4
+max_length 4
+mean_length 4.000000
+empty 0
+
+column 100
+name "c100"
+type NULL
+rows 3
+
+column 101
+name "c101"
+type INT
+nulls 0
+min 101
+max 103
+mean 102.000000
+positive 3
+negative 0
+even 1
+
+column 102
+name "c102"
+type DOUBLE
+nulls 0
+min 102.500000
+max 104.500000
+mean 103.500000
+positive 3
+negative 0
+integer 0
+
+column 103
+name "c103"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 104
+name "c104"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 105
+name "c105"
+type NULL
+rows 3
+
+column 106
+name "c106"
+type INT
+nulls 0
+min 106
+max 108
+mean 107.000000
+positive 3
+negative 0
+even 2
+
+column 107
+name "c107"
+type DOUBLE
+nulls 0
+min 107.500000
+max 109.500000
+mean 108.500000
+positive 3
+negative 0
+integer 0
+
+column 108
+name "c108"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 109
+name "c109"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 110
+name "c110"
+type NULL
+rows 3
+
+column 111
+name "c111"
+type INT
+nulls 0
+min 111
+max 113
+mean 112.000000
+positive 3
+negative 0
+even 1
+
+column 112
+name "c112"
+type DOUBLE
+nulls 0
+min 112.500000
+max 114.500000
+mean 113.500000
+positive 3
+negative 0
+integer 0
+
+column 113
+name "c113"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 114
+name "c114"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 115
+name "c115"
+type NULL
+rows 3
+
+column 116
+name "c116"
+type INT
+nulls 0
+min 116
+max 118
+mean 117.000000
+positive 3
+negative 0
+even 2
+
+column 117
+name "c117"
+type DOUBLE
+nulls 0
+min 117.500000
+max 119.500000
+mean 118.500000
+positive 3
+negative 0
+integer 0
+
+column 118
+name "c118"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 119
+name "c119"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 120
+name "c120"
+type NULL
+rows 3
+
+column 121
+name "c121"
+type INT
+nulls 0
+min 121
+max 123
+mean 122.000000
+positive 3
+negative 0
+even 1
+
+column 122
+name "c122"
+type DOUBLE
+nulls 0
+min 122.500000
+max 124.500000
+mean 123.500000
+positive 3
+negative 0
+integer 0
+
+column 123
+name "c123"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 124
+name "c124"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 125
+name "c125"
+type NULL
+rows 3
+
+column 126
+name "c126"
+type INT
+nulls 0
+min 126
+max 128
+mean 127.000000
+positive 3
+negative 0
+even 2
+
+column 127
+name "c127"
+type DOUBLE
+nulls 0
+min 127.500000
+max 129.500000
+mean 128.500000
+positive 3
+negative 0
+integer 0
+
+column 128
+name "c128"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 129
+name "c129"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 130
+name "c130"
+type NULL
+rows 3
+
+column 131
+name "c131"
+type INT
+nulls 0
+min 131
+max 133
+mean 132.000000
+positive 3
+negative 0
+even 1
+
+column 132
+name "c132"
+type DOUBLE
+nulls 0
+min 132.500000
+max 134.500000
+mean 133.500000
+positive 3
+negative 0
+integer 0
+
+column 133
+name "c133"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 134
+name "c134"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 135
+name "c135"
+type NULL
+rows 3
+
+column 136
+name "c136"
+type INT
+nulls 0
+min 136
+max 138
+mean 137.000000
+positive 3
+negative 0
+even 2
+
+column 137
+name "c137"
+type DOUBLE
+nulls 0
+min 137.500000
+max 139.500000
+mean 138.500000
+positive 3
+negative 0
+integer 0
+
+column 138
+name "c138"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 139
+name "c139"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 140
+name "c140"
+type NULL
+rows 3
+
+column 141
+name "c141"
+type INT
+nulls 0
+min 141
+max 143
+mean 142.000000
+positive 3
+negative 0
+even 1
+
+column 142
+name "c142"
+type DOUBLE
+nulls 0
+min 142.500000
+max 144.500000
+mean 143.500000
+positive 3
+negative 0
+integer 0
+
+column 143
+name "c143"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 144
+name "c144"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 145
+name "c145"
+type NULL
+rows 3
+
+column 146
+name "c146"
+type INT
+nulls 0
+min 146
+max 148
+mean 147.000000
+positive 3
+negative 0
+even 2
+
+column 147
+name "c147"
+type DOUBLE
+nulls 0
+min 147.500000
+max 149.500000
+mean 148.500000
+positive 3
+negative 0
+integer 0
+
+column 148
+name "c148"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 149
+name "c149"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 150
+name "c150"
+type NULL
+rows 3
+
+column 151
+name "c151"
+type INT
+nulls 0
+min 151
+max 153
+mean 152.000000
+positive 3
+negative 0
+even 1
+
+column 152
+name "c152"
+type DOUBLE
+nulls 0
+min 152.500000
+max 154.500000
+mean 153.500000
+positive 3
+negative 0
+integer 0
+
+column 153
+name "c153"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 154
+name "c154"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 155
+name "c155"
+type NULL
+rows 3
+
+column 156
+name "c156"
+type INT
+nulls 0
+min 156
+max 158
+mean 157.000000
+positive 3
+negative 0
+even 2
+
+column 157
+name "c157"
+type DOUBLE
+nulls 0
+min 157.500000
+max 159.500000
+mean 158.500000
+positive 3
+negative 0
+integer 0
+
+column 158
+name "c158"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 159
+name "c159"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 160
+name "c160"
+type NULL
+rows 3
+
+column 161
+name "c161"
+type INT
+nulls 0
+min 161
+max 163
+mean 162.000000
+positive 3
+negative 0
+even 1
+
+column 162
+name "c162"
+type DOUBLE
+nulls 0
+min 162.500000
+max 164.500000
+mean 163.500000
+positive 3
+negative 0
+integer 0
+
+column 163
+name "c163"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 164
+name "c164"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 165
+name "c165"
+type NULL
+rows 3
+
+column 166
+name "c166"
+type INT
+nulls 0
+min 166
+max 168
+mean 167.000000
+positive 3
+negative 0
+even 2
+
+column 167
+name "c167"
+type DOUBLE
+nulls 0
+min 167.500000
+max 169.500000
+mean 168.500000
+positive 3
+negative 0
+integer 0
+
+column 168
+name "c168"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 169
+name "c169"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 170
+name "c170"
+type NULL
+rows 3
+
+column 171
+name "c171"
+type INT
+nulls 0
+min 171
+max 173
+mean 172.000000
+positive 3
+negative 0
+even 1
+
+column 172
+name "c172"
+type DOUBLE
+nulls 0
+min 172.500000
+max 174.500000
+mean 173.500000
+positive 3
+negative 0
+integer 0
+
+column 173
+name "c173"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 174
+name "c174"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 175
+name "c175"
+type NULL
+rows 3
+
+column 176
+name "c176"
+type INT
+nulls 0
+min 176
+max 178
+mean 177.000000
+positive 3
+negative 0
+even 2
+
+column 177
+name "c177"
+type DOUBLE
+nulls 0
+min 177.500000
+max 179.500000
+mean 178.500000
+positive 3
+negative 0
+integer 0
+
+column 178
+name "c178"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 179
+name "c179"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 180
+name "c180"
+type NULL
+rows 3
+
+column 181
+name "c181"
+type INT
+nulls 0
+min 181
+max 183
+mean 182.000000
+positive 3
+negative 0
+even 1
+
+column 182
+name "c182"
+type DOUBLE
+nulls 0
+min 182.500000
+max 184.500000
+mean 183.500000
+positive 3
+negative 0
+integer 0
+
+column 183
+name "c183"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 184
+name "c184"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 185
+name "c185"
+type NULL
+rows 3
+
+column 186
+name "c186"
+type INT
+nulls 0
+min 186
+max 188
+mean 187.000000
+positive 3
+negative 0
+even 2
+
+column 187
+name "c187"
+type DOUBLE
+nulls 0
+min 187.500000
+max 189.500000
+mean 188.500000
+positive 3
+negative 0
+integer 0
+
+column 188
+name "c188"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 189
+name "c189"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 190
+name "c190"
+type NULL
+rows 3
+
+column 191
+name "c191"
+type INT
+nulls 0
+min 191
+max 193
+mean 192.000000
+positive 3
+negative 0
+even 1
+
+column 192
+name "c192"
+type DOUBLE
+nulls 0
+min 192.500000
+max 194.500000
+mean 193.500000
+positive 3
+negative 0
+integer 0
+
+column 193
+name "c193"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 194
+name "c194"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 195
+name "c195"
+type NULL
+rows 3
+
+column 196
+name "c196"
+type INT
+nulls 0
+min 196
+max 198
+mean 197.000000
+positive 3
+negative 0
+even 2
+
+column 197
+name "c197"
+type DOUBLE
+nulls 0
+min 197.500000
+max 199.500000
+mean 198.500000
+positive 3
+negative 0
+integer 0
+
+column 198
+name "c198"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 199
+name "c199"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 200
+name "c200"
+type NULL
+rows 3
+
+column 201
+name "c201"
+type INT
+nulls 0
+min 201
+max 203
+mean 202.000000
+positive 3
+negative 0
+even 1
+
+column 202
+name "c202"
+type DOUBLE
+nulls 0
+min 202.500000
+max 204.500000
+mean 203.500000
+positive 3
+negative 0
+integer 0
+
+column 203
+name "c203"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 204
+name "c204"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 205
+name "c205"
+type NULL
+rows 3
+
+column 206
+name "c206"
+type INT
+nulls 0
+min 206
+max 208
+mean 207.000000
+positive 3
+negative 0
+even 2
+
+column 207
+name "c207"
+type DOUBLE
+nulls 0
+min 207.500000
+max 209.500000
+mean 208.500000
+positive 3
+negative 0
+integer 0
+
+column 208
+name "c208"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 209
+name "c209"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 210
+name "c210"
+type NULL
+rows 3
+
+column 211
+name "c211"
+type INT
+nulls 0
+min 211
+max 213
+mean 212.000000
+positive 3
+negative 0
+even 1
+
+column 212
+name "c212"
+type DOUBLE
+nulls 0
+min 212.500000
+max 214.500000
+mean 213.500000
+positive 3
+negative 0
+integer 0
+
+column 213
+name "c213"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 214
+name "c214"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 215
+name "c215"
+type NULL
+rows 3
+
+column 216
+name "c216"
+type INT
+nulls 0
+min 216
+max 218
+mean 217.000000
+positive 3
+negative 0
+even 2
+
+column 217
+name "c217"
+type DOUBLE
+nulls 0
+min 217.500000
+max 219.500000
+mean 218.500000
+positive 3
+negative 0
+integer 0
+
+column 218
+name "c218"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 219
+name "c219"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 220
+name "c220"
+type NULL
+rows 3
+
+column 221
+name "c221"
+type INT
+nulls 0
+min 221
+max 223
+mean 222.000000
+positive 3
+negative 0
+even 1
+
+column 222
+name "c222"
+type DOUBLE
+nulls 0
+min 222.500000
+max 224.500000
+mean 223.500000
+positive 3
+negative 0
+integer 0
+
+column 223
+name "c223"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 224
+name "c224"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 225
+name "c225"
+type NULL
+rows 3
+
+column 226
+name "c226"
+type INT
+nulls 0
+min 226
+max 228
+mean 227.000000
+positive 3
+negative 0
+even 2
+
+column 227
+name "c227"
+type DOUBLE
+nulls 0
+min 227.500000
+max 229.500000
+mean 228.500000
+positive 3
+negative 0
+integer 0
+
+column 228
+name "c228"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 229
+name "c229"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 230
+name "c230"
+type NULL
+rows 3
+
+column 231
+name "c231"
+type INT
+nulls 0
+min 231
+max 233
+mean 232.000000
+positive 3
+negative 0
+even 1
+
+column 232
+name "c232"
+type DOUBLE
+nulls 0
+min 232.500000
+max 234.500000
+mean 233.500000
+positive 3
+negative 0
+integer 0
+
+column 233
+name "c233"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 234
+name "c234"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 235
+name "c235"
+type NULL
+rows 3
+
+column 236
+name "c236"
+type INT
+nulls 0
+min 236
+max 238
+mean 237.000000
+positive 3
+negative 0
+even 2
+
+column 237
+name "c237"
+type DOUBLE
+nulls 0
+min 237.500000
+max 239.500000
+mean 238.500000
+positive 3
+negative 0
+integer 0
+
+column 238
+name "c238"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 239
+name "c239"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 240
+name "c240"
+type NULL
+rows 3
+
+column 241
+name "c241"
+type INT
+nulls 0
+min 241
+max 243
+mean 242.000000
+positive 3
+negative 0
+even 1
+
+column 242
+name "c242"
+type DOUBLE
+nulls 0
+min 242.500000
+max 244.500000
+mean 243.500000
+positive 3
+negative 0
+integer 0
+
+column 243
+name "c243"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 244
+name "c244"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 245
+name "c245"
+type NULL
+rows 3
+
+column 246
+name "c246"
+type INT
+nulls 0
+min 246
+max 248
+mean 247.000000
+positive 3
+negative 0
+even 2
+
+column 247
+name "c247"
+type DOUBLE
+nulls 0
+min 247.500000
+max 249.500000
+mean 248.500000
+positive 3
+negative 0
+integer 0
+
+column 248
+name "c248"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 249
+name "c249"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 250
+name "c250"
+type NULL
+rows 3
+
+column 251
+name "c251"
+type INT
+nulls 0
+min 251
+max 253
+mean 252.000000
+positive 3
+negative 0
+even 1
+
+column 252
+name "c252"
+type DOUBLE
+nulls 0
+min 252.500000
+max 254.500000
+mean 253.500000
+positive 3
+negative 0
+integer 0
+
+column 253
+name "c253"
+type STRING
+nulls 0
+min_length 8
+max_length 8
+mean_length 8.000000
+empty 0
+
+column 254
+name "c254"
+type STRING
+nulls 0
+min_length 5
+max_length 5
+mean_length 5.000000
+empty 0
+
+column 255
+name "c255"
+type NULL
+rows 3

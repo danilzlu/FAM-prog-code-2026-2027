@@ -1,0 +1,5 @@
+rows 2
+columns 3
+0 "name" STRING
+1 "age" INT
+2 "score" DOUBLE

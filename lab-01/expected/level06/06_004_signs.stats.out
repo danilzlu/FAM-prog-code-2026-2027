@@ -1,0 +1,24 @@
+rows 4
+columns 2
+
+column 0
+name "x"
+type DOUBLE
+nulls 0
+min -2.500000
+max 4.000000
+mean 0.625000
+positive 2
+negative 1
+integer 3
+
+column 1
+name "y"
+type DOUBLE
+nulls 0
+min -1.000000
+max 3.500000
+mean 0.625000
+positive 1
+negative 1
+integer 3

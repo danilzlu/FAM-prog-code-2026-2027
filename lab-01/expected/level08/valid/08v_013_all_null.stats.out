@@ -1,0 +1,12 @@
+rows 3
+columns 2
+
+column 0
+name "a"
+type NULL
+rows 3
+
+column 1
+name "b"
+type NULL
+rows 3

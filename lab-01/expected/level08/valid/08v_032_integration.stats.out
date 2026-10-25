@@ -1,0 +1,54 @@
+rows 4
+columns 6
+
+column 0
+name "person,id"
+type STRING
+nulls 0
+min_length 3
+max_length 9
+mean_length 5.250000
+empty 0
+
+column 1
+name "age"
+type STRING
+nulls 1
+min_length 2
+max_length 4
+mean_length 2.666667
+empty 0
+
+column 2
+name "score"
+type DOUBLE
+nulls 0
+min 7.000000
+max 10.000000
+mean 8.687500
+positive 4
+negative 0
+integer 2
+
+column 3
+name "comment"
+type STRING
+nulls 0
+min_length 2
+max_length 14
+mean_length 8.250000
+empty 0
+
+column 4
+name "empty"
+type STRING
+nulls 1
+min_length 0
+max_length 3
+mean_length 1.333333
+empty 1
+
+column 5
+name "allnull"
+type NULL
+rows 4

@@ -1,0 +1,5 @@
+rows 3
+columns 3
+0 "a" INT
+1 "b" NULL
+2 "c" INT

@@ -1,0 +1,5 @@
+rows 2
+columns 3
+0 "a" INT
+1 "b" DOUBLE
+2 "c" STRING

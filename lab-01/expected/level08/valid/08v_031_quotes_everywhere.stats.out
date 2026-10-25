@@ -1,0 +1,31 @@
+rows 3
+columns 3
+
+column 0
+name "name"
+type STRING
+nulls 0
+min_length 3
+max_length 5
+mean_length 4.333333
+empty 0
+
+column 1
+name "age"
+type DOUBLE
+nulls 1
+min 3.500000
+max 42.000000
+mean 22.750000
+positive 2
+negative 0
+integer 1
+
+column 2
+name "comment"
+type STRING
+nulls 0
+min_length 0
+max_length 14
+mean_length 8.000000
+empty 1

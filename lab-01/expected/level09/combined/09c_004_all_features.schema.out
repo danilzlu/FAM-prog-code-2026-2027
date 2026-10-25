@@ -1,0 +1,6 @@
+rows 3
+columns 4
+0 "person;id" STRING
+1 "value" DOUBLE
+2 "comment" STRING
+3 "empty" STRING

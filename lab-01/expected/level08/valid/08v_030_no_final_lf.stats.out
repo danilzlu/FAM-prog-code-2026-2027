@@ -1,0 +1,20 @@
+rows 2
+columns 2
+
+column 0
+name "first,name"
+type STRING
+nulls 0
+min_length 3
+max_length 9
+mean_length 6.000000
+empty 0
+
+column 1
+name "value"
+type STRING
+nulls 0
+min_length 2
+max_length 5
+mean_length 3.500000
+empty 0

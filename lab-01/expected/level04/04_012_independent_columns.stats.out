@@ -1,0 +1,46 @@
+rows 4
+columns 4
+
+column 0
+name "small"
+type INT
+nulls 0
+min -1
+max 1
+mean 0.000000
+positive 1
+negative 1
+even 2
+
+column 1
+name "positive"
+type INT
+nulls 0
+min 100
+max 400
+mean 250.000000
+positive 4
+negative 0
+even 4
+
+column 2
+name "negative"
+type INT
+nulls 0
+min -1000
+max -700
+mean -850.000000
+positive 0
+negative 4
+even 4
+
+column 3
+name "mixed"
+type INT
+nulls 0
+min -9
+max 17
+mean 4.000000
+positive 2
+negative 1
+even 2

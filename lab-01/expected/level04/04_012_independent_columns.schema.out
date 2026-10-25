@@ -1,0 +1,6 @@
+rows 4
+columns 4
+0 "small" INT
+1 "positive" INT
+2 "negative" INT
+3 "mixed" INT

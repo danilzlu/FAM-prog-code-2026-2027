@@ -1,0 +1,13 @@
+rows 4
+columns 1
+
+column 0
+name "value"
+type DOUBLE
+nulls 0
+min -0.002500
+max 10000000000.000000
+mean 2500017500.749375
+positive 3
+negative 1
+integer 3

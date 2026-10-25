@@ -1,0 +1,5 @@
+rows 2
+columns 3
+0 "id" INT
+1 "value" STRING
+2 "text" STRING

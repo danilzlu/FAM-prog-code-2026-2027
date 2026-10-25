@@ -1,0 +1,46 @@
+rows 3
+columns 4
+
+column 0
+name "a"
+type INT
+nulls 0
+min 1
+max 3
+mean 2.000000
+positive 3
+negative 0
+even 1
+
+column 1
+name "b"
+type DOUBLE
+nulls 0
+min 1.500000
+max 3.500000
+mean 2.500000
+positive 3
+negative 0
+integer 0
+
+column 2
+name "c"
+type INT
+nulls 0
+min -9
+max -7
+mean -8.000000
+positive 0
+negative 3
+even 1
+
+column 3
+name "d"
+type DOUBLE
+nulls 0
+min 3.000000
+max 5.000000
+mean 4.083333
+positive 3
+negative 0
+integer 2

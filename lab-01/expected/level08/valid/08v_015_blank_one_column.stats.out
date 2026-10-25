@@ -1,0 +1,13 @@
+rows 3
+columns 1
+
+column 0
+name "value"
+type INT
+nulls 1
+min 123
+max 456
+mean 289.500000
+positive 2
+negative 0
+even 1

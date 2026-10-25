@@ -1,0 +1,8 @@
+rows 4
+columns 6
+0 "person,id" STRING
+1 "age" STRING
+2 "score" DOUBLE
+3 "comment" STRING
+4 "empty" STRING
+5 "allnull" NULL

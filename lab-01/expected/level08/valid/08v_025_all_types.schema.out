@@ -1,0 +1,6 @@
+rows 4
+columns 4
+0 "allnull" NULL
+1 "intcol" INT
+2 "doublecol" DOUBLE
+3 "stringcol" STRING

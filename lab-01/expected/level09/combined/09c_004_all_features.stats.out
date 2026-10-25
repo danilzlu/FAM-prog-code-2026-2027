@@ -1,0 +1,40 @@
+rows 3
+columns 4
+
+column 0
+name "person;id"
+type STRING
+nulls 0
+min_length 3
+max_length 7
+mean_length 5.000000
+empty 0
+
+column 1
+name "value"
+type DOUBLE
+nulls 0
+min -0.002500
+max 10000000000.000000
+mean 3333356666.665833
+positive 2
+negative 1
+integer 2
+
+column 2
+name "comment"
+type STRING
+nulls 0
+min_length 4
+max_length 32
+mean_length 15.666667
+empty 0
+
+column 3
+name "empty"
+type STRING
+nulls 2
+min_length 0
+max_length 0
+mean_length 0.000000
+empty 1

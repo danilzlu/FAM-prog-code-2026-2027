@@ -1,0 +1,33 @@
+rows 2
+columns 3
+
+column 0
+name "name"
+type STRING
+nulls 0
+min_length 3
+max_length 5
+mean_length 4.000000
+empty 0
+
+column 1
+name "age"
+type INT
+nulls 0
+min 18
+max 20
+mean 19.000000
+positive 2
+negative 0
+even 2
+
+column 2
+name "score"
+type DOUBLE
+nulls 0
+min 8.250000
+max 9.500000
+mean 8.875000
+positive 2
+negative 0
+integer 0

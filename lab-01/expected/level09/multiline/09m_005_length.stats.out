@@ -1,0 +1,11 @@
+rows 3
+columns 1
+
+column 0
+name "text"
+type STRING
+nulls 0
+min_length 0
+max_length 11
+mean_length 4.666667
+empty 1

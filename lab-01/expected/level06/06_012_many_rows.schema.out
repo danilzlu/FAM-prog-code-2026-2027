@@ -1,0 +1,4 @@
+rows 40000
+columns 2
+0 "index" INT
+1 "value" DOUBLE

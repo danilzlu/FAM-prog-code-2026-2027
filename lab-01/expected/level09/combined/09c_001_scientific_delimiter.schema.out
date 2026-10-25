@@ -1,0 +1,5 @@
+rows 2
+columns 3
+0 "name" STRING
+1 "value" DOUBLE
+2 "other" DOUBLE

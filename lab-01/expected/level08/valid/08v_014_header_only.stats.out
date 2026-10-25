@@ -1,0 +1,17 @@
+rows 0
+columns 3
+
+column 0
+name "a"
+type NULL
+rows 0
+
+column 1
+name "b"
+type NULL
+rows 0
+
+column 2
+name "c"
+type NULL
+rows 0

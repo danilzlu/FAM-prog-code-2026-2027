@@ -1,0 +1,24 @@
+rows 50000
+columns 2
+
+column 0
+name "index"
+type INT
+nulls 0
+min 0
+max 49999
+mean 24999.500000
+positive 49999
+negative 0
+even 25000
+
+column 1
+name "value"
+type INT
+nulls 0
+min -1000
+max 1000
+mean -0.494000
+positive 24975
+negative 25000
+even 25012

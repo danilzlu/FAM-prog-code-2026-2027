@@ -1,0 +1,22 @@
+rows 2
+columns 2
+
+column 0
+name "a"
+type STRING
+nulls 0
+min_length 3
+max_length 5
+mean_length 4.000000
+empty 0
+
+column 1
+name "b"
+type DOUBLE
+nulls 0
+min 3.500000
+max 42.000000
+mean 22.750000
+positive 2
+negative 0
+integer 1
