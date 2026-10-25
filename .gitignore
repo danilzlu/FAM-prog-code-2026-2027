@@ -4,3 +4,9 @@
 
 # lab outputs
 !expected/**/*.out
+
+
+
+# masOS
+.DS_Store
+**/.DS_Store
