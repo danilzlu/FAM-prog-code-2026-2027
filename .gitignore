@@ -1,3 +1,6 @@
 # Compiled executables
 *.exe
 *.out
+
+# lab outputs
+!expected/**/*.out
