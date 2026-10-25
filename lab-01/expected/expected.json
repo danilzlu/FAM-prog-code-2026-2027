@@ -1,0 +1,1988 @@
+{
+  "format_version": 1,
+  "reference": "csvstat",
+  "case_count": 125,
+  "cases": [
+    {
+      "id": "04_001_single",
+      "file": "level04/04_001_single.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_001_single.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_001_single.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_002_basic",
+      "file": "level04/04_002_basic.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_002_basic.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_002_basic.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_003_signs",
+      "file": "level04/04_003_signs.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_003_signs.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_003_signs.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_004_even",
+      "file": "level04/04_004_even.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_004_even.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_004_even.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_005_mean_fraction",
+      "file": "level04/04_005_mean_fraction.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_005_mean_fraction.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_005_mean_fraction.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_006_extremes",
+      "file": "level04/04_006_extremes.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_006_extremes.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_006_extremes.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_007_overflow_sum",
+      "file": "level04/04_007_overflow_sum.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_007_overflow_sum.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_007_overflow_sum.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_008_headers",
+      "file": "level04/04_008_headers.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_008_headers.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_008_headers.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_009_no_final_lf",
+      "file": "level04/04_009_no_final_lf.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_009_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_009_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_010_many_columns",
+      "file": "level04/04_010_many_columns.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_010_many_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_010_many_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_011_many_rows",
+      "file": "level04/04_011_many_rows.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_011_many_rows.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_011_many_rows.stats.out"
+        }
+      }
+    },
+    {
+      "id": "04_012_independent_columns",
+      "file": "level04/04_012_independent_columns.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level04/04_012_independent_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level04/04_012_independent_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_001_double",
+      "file": "level06/06_001_double.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_001_double.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_001_double.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_002_widen",
+      "file": "level06/06_002_widen.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_002_widen.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_002_widen.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_003_mixed_columns",
+      "file": "level06/06_003_mixed_columns.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_003_mixed_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_003_mixed_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_004_signs",
+      "file": "level06/06_004_signs.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_004_signs.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_004_signs.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_005_integer_double",
+      "file": "level06/06_005_integer_double.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_005_integer_double.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_005_integer_double.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_006_signed_zero",
+      "file": "level06/06_006_signed_zero.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_006_signed_zero.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_006_signed_zero.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_007_leading_zeroes",
+      "file": "level06/06_007_leading_zeroes.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_007_leading_zeroes.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_007_leading_zeroes.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_008_small_double",
+      "file": "level06/06_008_small_double.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_008_small_double.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_008_small_double.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_009_late_widen",
+      "file": "level06/06_009_late_widen.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_009_late_widen.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_009_late_widen.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_010_no_final_lf",
+      "file": "level06/06_010_no_final_lf.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_010_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_010_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_011_many_columns",
+      "file": "level06/06_011_many_columns.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_011_many_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_011_many_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "06_012_many_rows",
+      "file": "level06/06_012_many_rows.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level06/06_012_many_rows.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level06/06_012_many_rows.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_001_null_empty",
+      "file": "level08/valid/08v_001_null_empty.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_001_null_empty.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_001_null_empty.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_002_null_spaces_tabs",
+      "file": "level08/valid/08v_002_null_spaces_tabs.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_002_null_spaces_tabs.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_002_null_spaces_tabs.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_003_empty_string",
+      "file": "level08/valid/08v_003_empty_string.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_003_empty_string.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_003_empty_string.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_004_quoted_spaces",
+      "file": "level08/valid/08v_004_quoted_spaces.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_004_quoted_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_004_quoted_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_005_quoted_comma",
+      "file": "level08/valid/08v_005_quoted_comma.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_005_quoted_comma.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_005_quoted_comma.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_006_escaped_quote",
+      "file": "level08/valid/08v_006_escaped_quote.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_006_escaped_quote.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_006_escaped_quote.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_007_outer_spaces_quoted",
+      "file": "level08/valid/08v_007_outer_spaces_quoted.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_007_outer_spaces_quoted.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_007_outer_spaces_quoted.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_008_outer_spaces_plain",
+      "file": "level08/valid/08v_008_outer_spaces_plain.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_008_outer_spaces_plain.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_008_outer_spaces_plain.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_009_complex_header",
+      "file": "level08/valid/08v_009_complex_header.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_009_complex_header.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_009_complex_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_010_header_trim",
+      "file": "level08/valid/08v_010_header_trim.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_010_header_trim.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_010_header_trim.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_011_quoted_number",
+      "file": "level08/valid/08v_011_quoted_number.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_011_quoted_number.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_011_quoted_number.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_012_quoted_number_spaces",
+      "file": "level08/valid/08v_012_quoted_number_spaces.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_012_quoted_number_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_012_quoted_number_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_013_all_null",
+      "file": "level08/valid/08v_013_all_null.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_013_all_null.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_013_all_null.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_014_header_only",
+      "file": "level08/valid/08v_014_header_only.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_014_header_only.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_014_header_only.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_015_blank_one_column",
+      "file": "level08/valid/08v_015_blank_one_column.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_015_blank_one_column.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_015_blank_one_column.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_016_trailing_blank",
+      "file": "level08/valid/08v_016_trailing_blank.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_016_trailing_blank.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_016_trailing_blank.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_017_edge_empty_fields",
+      "file": "level08/valid/08v_017_edge_empty_fields.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_017_edge_empty_fields.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_017_edge_empty_fields.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_018_int_range",
+      "file": "level08/valid/08v_018_int_range.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_018_int_range.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_018_int_range.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_019_int_out_of_range",
+      "file": "level08/valid/08v_019_int_out_of_range.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_019_int_out_of_range.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_019_int_out_of_range.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_020_numeric_lookalikes",
+      "file": "level08/valid/08v_020_numeric_lookalikes.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_020_numeric_lookalikes.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_020_numeric_lookalikes.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_021_double_overflow",
+      "file": "level08/valid/08v_021_double_overflow.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_021_double_overflow.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_021_double_overflow.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_022_string_lengths",
+      "file": "level08/valid/08v_022_string_lengths.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_022_string_lengths.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_022_string_lengths.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_023_full_widen",
+      "file": "level08/valid/08v_023_full_widen.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_023_full_widen.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_023_full_widen.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_024_late_string",
+      "file": "level08/valid/08v_024_late_string.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_024_late_string.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_024_late_string.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_025_all_types",
+      "file": "level08/valid/08v_025_all_types.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_025_all_types.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_025_all_types.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_026_whitespace_line",
+      "file": "level08/valid/08v_026_whitespace_line.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_026_whitespace_line.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_026_whitespace_line.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_027_long_field",
+      "file": "level08/valid/08v_027_long_field.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_027_long_field.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_027_long_field.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_028_long_header",
+      "file": "level08/valid/08v_028_long_header.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_028_long_header.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_028_long_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_029_many_columns",
+      "file": "level08/valid/08v_029_many_columns.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_029_many_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_029_many_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_030_no_final_lf",
+      "file": "level08/valid/08v_030_no_final_lf.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_030_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_030_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_031_quotes_everywhere",
+      "file": "level08/valid/08v_031_quotes_everywhere.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_031_quotes_everywhere.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_031_quotes_everywhere.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08v_032_integration",
+      "file": "level08/valid/08v_032_integration.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_032_integration.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level08/valid/08v_032_integration.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_001_empty_file",
+      "file": "level08/invalid/08i_001_empty_file.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_001_empty_file.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_001_empty_file.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_002_quote_in_plain",
+      "file": "level08/invalid/08i_002_quote_in_plain.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_002_quote_in_plain.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_002_quote_in_plain.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_003_after_quote",
+      "file": "level08/invalid/08i_003_after_quote.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_003_after_quote.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_003_after_quote.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_004_unclosed_quote_eof",
+      "file": "level08/invalid/08i_004_unclosed_quote_eof.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_004_unclosed_quote_eof.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_004_unclosed_quote_eof.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_005_unclosed_quote_line",
+      "file": "level08/invalid/08i_005_unclosed_quote_line.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_005_unclosed_quote_line.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_005_unclosed_quote_line.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_006_quote_then_garbage_header",
+      "file": "level08/invalid/08i_006_quote_then_garbage_header.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_006_quote_then_garbage_header.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_006_quote_then_garbage_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_007_too_few_fields",
+      "file": "level08/invalid/08i_007_too_few_fields.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_007_too_few_fields.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_007_too_few_fields.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_008_too_many_fields",
+      "file": "level08/invalid/08i_008_too_many_fields.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_008_too_many_fields.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_008_too_many_fields.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_009_blank_multicolumn",
+      "file": "level08/invalid/08i_009_blank_multicolumn.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_009_blank_multicolumn.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_009_blank_multicolumn.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_010_spaces_only_multicolumn",
+      "file": "level08/invalid/08i_010_spaces_only_multicolumn.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_010_spaces_only_multicolumn.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_010_spaces_only_multicolumn.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_011_tabs_only_multicolumn",
+      "file": "level08/invalid/08i_011_tabs_only_multicolumn.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_011_tabs_only_multicolumn.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_011_tabs_only_multicolumn.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_012_empty_header_first",
+      "file": "level08/invalid/08i_012_empty_header_first.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_012_empty_header_first.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_012_empty_header_first.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_013_empty_header_last",
+      "file": "level08/invalid/08i_013_empty_header_last.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_013_empty_header_last.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_013_empty_header_last.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_014_empty_header_middle",
+      "file": "level08/invalid/08i_014_empty_header_middle.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_014_empty_header_middle.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_014_empty_header_middle.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_015_empty_header_spaces",
+      "file": "level08/invalid/08i_015_empty_header_spaces.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_015_empty_header_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_015_empty_header_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_016_duplicate_header_plain",
+      "file": "level08/invalid/08i_016_duplicate_header_plain.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_016_duplicate_header_plain.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_016_duplicate_header_plain.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_017_duplicate_header_after_trim",
+      "file": "level08/invalid/08i_017_duplicate_header_after_trim.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_017_duplicate_header_after_trim.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_017_duplicate_header_after_trim.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_018_duplicate_header_quoted",
+      "file": "level08/invalid/08i_018_duplicate_header_quoted.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_018_duplicate_header_quoted.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_018_duplicate_header_quoted.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_019_duplicate_header_complex",
+      "file": "level08/invalid/08i_019_duplicate_header_complex.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_019_duplicate_header_complex.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_019_duplicate_header_complex.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_020_bad_header_unclosed_quote",
+      "file": "level08/invalid/08i_020_bad_header_unclosed_quote.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_020_bad_header_unclosed_quote.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_020_bad_header_unclosed_quote.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_021_bad_header_quote_in_plain",
+      "file": "level08/invalid/08i_021_bad_header_quote_in_plain.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_021_bad_header_quote_in_plain.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_021_bad_header_quote_in_plain.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_022_bad_header_after_quote",
+      "file": "level08/invalid/08i_022_bad_header_after_quote.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_022_bad_header_after_quote.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_022_bad_header_after_quote.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_023_newline_in_quoted_field",
+      "file": "level08/invalid/08i_023_newline_in_quoted_field.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_023_newline_in_quoted_field.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_023_newline_in_quoted_field.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_024_newline_in_quoted_header",
+      "file": "level08/invalid/08i_024_newline_in_quoted_header.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_024_newline_in_quoted_header.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_024_newline_in_quoted_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_025_quote_space_then_garbage",
+      "file": "level08/invalid/08i_025_quote_space_then_garbage.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_025_quote_space_then_garbage.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_025_quote_space_then_garbage.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_026_plain_with_internal_quote_late",
+      "file": "level08/invalid/08i_026_plain_with_internal_quote_late.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_026_plain_with_internal_quote_late.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_026_plain_with_internal_quote_late.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_027_bare_quote_only",
+      "file": "level08/invalid/08i_027_bare_quote_only.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_027_bare_quote_only.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_027_bare_quote_only.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_028_misplaced_quote_after_spaces",
+      "file": "level08/invalid/08i_028_misplaced_quote_after_spaces.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_028_misplaced_quote_after_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_028_misplaced_quote_after_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_029_extra_delimiter",
+      "file": "level08/invalid/08i_029_extra_delimiter.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_029_extra_delimiter.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_029_extra_delimiter.stats.out"
+        }
+      }
+    },
+    {
+      "id": "08i_030_missing_middle_value_due_to_unbalanced_quote",
+      "file": "level08/invalid/08i_030_missing_middle_value_due_to_unbalanced_quote.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_030_missing_middle_value_due_to_unbalanced_quote.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level08/invalid/08i_030_missing_middle_value_due_to_unbalanced_quote.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_001_basic",
+      "file": "level09/scientific/09s_001_basic.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_001_basic.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_001_basic.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_002_mix",
+      "file": "level09/scientific/09s_002_mix.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_002_mix.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_002_mix.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_003_multiple_columns",
+      "file": "level09/scientific/09s_003_multiple_columns.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_003_multiple_columns.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_003_multiple_columns.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_004_exponent_signs",
+      "file": "level09/scientific/09s_004_exponent_signs.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_004_exponent_signs.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_004_exponent_signs.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_005_invalid_forms",
+      "file": "level09/scientific/09s_005_invalid_forms.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_005_invalid_forms.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_005_invalid_forms.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_006_overflow",
+      "file": "level09/scientific/09s_006_overflow.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_006_overflow.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_006_overflow.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_007_underflow",
+      "file": "level09/scientific/09s_007_underflow.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_007_underflow.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_007_underflow.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_008_quoted",
+      "file": "level09/scientific/09s_008_quoted.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_008_quoted.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_008_quoted.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_009_quoted_spaces",
+      "file": "level09/scientific/09s_009_quoted_spaces.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_009_quoted_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_009_quoted_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_010_no_final_lf",
+      "file": "level09/scientific/09s_010_no_final_lf.csv",
+      "options": [
+        "--scientific"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_010_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_010_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09s_011_without_flag",
+      "file": "level09/scientific/09s_011_without_flag.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_011_without_flag.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/scientific/09s_011_without_flag.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_001_one_newline",
+      "file": "level09/multiline/09m_001_one_newline.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_001_one_newline.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_001_one_newline.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_002_many_newlines",
+      "file": "level09/multiline/09m_002_many_newlines.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_002_many_newlines.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_002_many_newlines.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_003_quotes_commas",
+      "file": "level09/multiline/09m_003_quotes_commas.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_003_quotes_commas.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_003_quotes_commas.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_004_multiline_header",
+      "file": "level09/multiline/09m_004_multiline_header.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_004_multiline_header.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_004_multiline_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_005_length",
+      "file": "level09/multiline/09m_005_length.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_005_length.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_005_length.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_006_outer_spaces",
+      "file": "level09/multiline/09m_006_outer_spaces.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_006_outer_spaces.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_006_outer_spaces.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_007_empty_physical_lines_inside",
+      "file": "level09/multiline/09m_007_empty_physical_lines_inside.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_007_empty_physical_lines_inside.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_007_empty_physical_lines_inside.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_008_unclosed_eof",
+      "file": "level09/multiline/09m_008_unclosed_eof.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level09/multiline/09m_008_unclosed_eof.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level09/multiline/09m_008_unclosed_eof.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_009_without_flag",
+      "file": "level09/multiline/09m_009_without_flag.csv",
+      "options": [],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level09/multiline/09m_009_without_flag.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level09/multiline/09m_009_without_flag.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09m_010_no_final_lf",
+      "file": "level09/multiline/09m_010_no_final_lf.csv",
+      "options": [
+        "--multiline"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_010_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/multiline/09m_010_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_001_semicolon",
+      "file": "level09/delimiter/09d_001_semicolon.csv",
+      "options": [
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_001_semicolon.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_001_semicolon.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_002_pipe",
+      "file": "level09/delimiter/09d_002_pipe.csv",
+      "options": [
+        "--delimiter",
+        "|"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_002_pipe.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_002_pipe.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_003_colon",
+      "file": "level09/delimiter/09d_003_colon.csv",
+      "options": [
+        "--delimiter",
+        ":"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_003_colon.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_003_colon.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_004_comma_is_plain",
+      "file": "level09/delimiter/09d_004_comma_is_plain.csv",
+      "options": [
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_004_comma_is_plain.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_004_comma_is_plain.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_005_quoted_delimiter",
+      "file": "level09/delimiter/09d_005_quoted_delimiter.csv",
+      "options": [
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_005_quoted_delimiter.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_005_quoted_delimiter.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_006_header",
+      "file": "level09/delimiter/09d_006_header.csv",
+      "options": [
+        "--delimiter",
+        ":"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_006_header.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_006_header.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_007_nulls",
+      "file": "level09/delimiter/09d_007_nulls.csv",
+      "options": [
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_007_nulls.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_007_nulls.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_008_tab_comma_chars",
+      "file": "level09/delimiter/09d_008_tab_comma_chars.csv",
+      "options": [
+        "--delimiter",
+        "|"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_008_tab_comma_chars.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_008_tab_comma_chars.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_009_no_final_lf",
+      "file": "level09/delimiter/09d_009_no_final_lf.csv",
+      "options": [
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_009_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_009_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09d_010_hash",
+      "file": "level09/delimiter/09d_010_hash.csv",
+      "options": [
+        "--delimiter",
+        "#"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_010_hash.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/delimiter/09d_010_hash.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_001_scientific_delimiter",
+      "file": "level09/combined/09c_001_scientific_delimiter.csv",
+      "options": [
+        "--scientific",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_001_scientific_delimiter.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_001_scientific_delimiter.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_002_multiline_delimiter",
+      "file": "level09/combined/09c_002_multiline_delimiter.csv",
+      "options": [
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_002_multiline_delimiter.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_002_multiline_delimiter.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_003_scientific_multiline",
+      "file": "level09/combined/09c_003_scientific_multiline.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_003_scientific_multiline.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_003_scientific_multiline.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_004_all_features",
+      "file": "level09/combined/09c_004_all_features.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_004_all_features.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_004_all_features.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_005_all_features_no_final_lf",
+      "file": "level09/combined/09c_005_all_features_no_final_lf.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        "|"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_005_all_features_no_final_lf.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_005_all_features_no_final_lf.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_006_multiline_scientific_strings",
+      "file": "level09/combined/09c_006_multiline_scientific_strings.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_006_multiline_scientific_strings.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_006_multiline_scientific_strings.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_007_large_mixed",
+      "file": "level09/combined/09c_007_large_mixed.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_007_large_mixed.schema.out"
+        },
+        "stats": {
+          "exit": 0,
+          "stdout": "level09/combined/09c_007_large_mixed.stats.out"
+        }
+      }
+    },
+    {
+      "id": "09c_008_unclosed_multiline",
+      "file": "level09/combined/09c_008_unclosed_multiline.csv",
+      "options": [
+        "--scientific",
+        "--multiline",
+        "--delimiter",
+        ";"
+      ],
+      "commands": {
+        "schema": {
+          "exit": 1,
+          "stdout": "level09/combined/09c_008_unclosed_multiline.schema.out"
+        },
+        "stats": {
+          "exit": 1,
+          "stdout": "level09/combined/09c_008_unclosed_multiline.stats.out"
+        }
+      }
+    }
+  ]
+}

@@ -14,9 +14,9 @@ static int binary_search(const int *a, size_t n, int target)
             return (int)mid;
         }
         if (a[mid] < target) {
-            left = mid;  /* BUG: граница может не сдвинуться */
+            left = mid + 1;  /* BUG: граница может не сдвинуться */
         } else {
-            right = mid;
+            right = mid - 1;
         }
     }
     return -1;
@@ -24,7 +24,7 @@ static int binary_search(const int *a, size_t n, int target)
 
 int main(void)
 {
-    const int numbers[] = {2, 5, 8, 12, 16, 23, 38};
+    const int numbers[] = {2, 5, 8, 12, 16, 21, 38};
     const size_t count = sizeof numbers / sizeof numbers[0];
     const int target = 23;
 
