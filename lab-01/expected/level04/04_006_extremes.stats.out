@@ -7,7 +7,7 @@ type INT
 nulls 0
 min -9223372036854775808
 max 9223372036854775807
-mean 0.000000
+mean -0.333333
 positive 1
 negative 1
 even 2
