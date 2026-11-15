@@ -1,0 +1,10 @@
+SET s0 "hello world"
+SET s1 ""
+SET s2 "line\none"
+SET s3 "tab\there"
+SET s4 "back\\slash"
+SET s5 "he said \"hello\""
+SET s6 "space at end "
+SET s7 " trailing"
+SET s8 "CR\rLF\n"
+LIST

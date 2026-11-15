@@ -1,0 +1,4 @@
+SET Alice first
+SET ALICE second
+GET alice
+LIST

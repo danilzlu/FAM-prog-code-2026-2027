@@ -1,0 +1,4 @@
+SET Ab 1
+SET BC 2
+RENAME ab bc
+LIST

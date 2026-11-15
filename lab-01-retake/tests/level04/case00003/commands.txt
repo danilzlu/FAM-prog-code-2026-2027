@@ -1,0 +1,4 @@
+GET ghost
+EXISTS ghost
+DELETE ghost
+SIZE

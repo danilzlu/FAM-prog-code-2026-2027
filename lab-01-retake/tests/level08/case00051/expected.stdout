@@ -1,0 +1,5 @@
+""
+"Tab\t CR\r LF\n \" \\"
+LIST 2
+empty ""
+special "Tab\t CR\r LF\n \" \\"

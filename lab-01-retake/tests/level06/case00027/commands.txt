@@ -1,0 +1,7 @@
+SET a first
+SET b second
+RENAME a b
+LIST
+RENAME missing b
+RENAME b b
+LIST

@@ -1,0 +1,8 @@
+SET alice 100
+SET bob 200
+GET alice
+SET alice 150
+GET alice
+DELETE bob
+EXISTS bob
+SIZE

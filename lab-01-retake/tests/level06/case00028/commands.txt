@@ -1,0 +1,11 @@
+SET apple apple
+SET app app
+SET apply apply
+SET app0 app0
+SET application application
+SET a a
+SET b b
+SET app_z app_z
+PREFIX app
+RANGE app apply
+LIST

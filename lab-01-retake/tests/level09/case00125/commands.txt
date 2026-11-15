@@ -1,0 +1,4 @@
+SET Hello "line\n\"quoted\""
+RENAME HELLO WORLD
+GET world
+LIST

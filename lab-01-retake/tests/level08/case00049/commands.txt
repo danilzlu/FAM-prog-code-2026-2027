@@ -1,0 +1,4 @@
+GET alice
+SET bob NEW
+DELETE missing
+LIST

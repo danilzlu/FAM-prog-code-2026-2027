@@ -1,0 +1,3 @@
+SET Name.A-1 !$%&*+-./:;<=?>@[]^_`{|}~
+GET Name.A-1
+EXISTS name.a-1

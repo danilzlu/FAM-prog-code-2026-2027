@@ -1,0 +1,10 @@
+LIST 9
+s0 "hello world"
+s1 ""
+s2 "line\none"
+s3 "tab\there"
+s4 "back\\slash"
+s5 "he said \"hello\""
+s6 "space at end "
+s7 " trailing"
+s8 "CR\rLF\n"

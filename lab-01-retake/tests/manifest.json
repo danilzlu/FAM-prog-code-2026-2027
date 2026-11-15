@@ -1,0 +1,969 @@
+{
+  "schema": 1,
+  "description": "Public demonstration tests for students (subset of instructor suite; not exhaustive)",
+  "cases": [
+    {
+      "id": 1,
+      "level": 4,
+      "name": "empty-file",
+      "directory": "level04/case00001",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "level": 4,
+      "name": "base-example",
+      "directory": "level04/case00002",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "level": 4,
+      "name": "empty-store",
+      "directory": "level04/case00003",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "name": "boundaries",
+      "directory": "level04/case00004",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "level": 4,
+      "name": "ascii-order-and-punctuation",
+      "directory": "level04/case00005",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "level": 4,
+      "name": "final-line-without-lf",
+      "directory": "level04/case00006",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "level": 4,
+      "name": "whitespace",
+      "directory": "level04/case00007",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "level": 4,
+      "name": "repeated-replacement",
+      "directory": "level04/case00008",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "level": 6,
+      "name": "empty-list-and-ranges",
+      "directory": "level06/case00025",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "level": 6,
+      "name": "basic-sorted",
+      "directory": "level06/case00026",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "level": 6,
+      "name": "rename-collision",
+      "directory": "level06/case00027",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "level": 6,
+      "name": "prefix-edge",
+      "directory": "level06/case00028",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "level": 6,
+      "name": "sort-and-delete",
+      "directory": "level06/case00029",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "level": 6,
+      "name": "random-rich-0",
+      "directory": "level06/case00031",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "level": 6,
+      "name": "random-rich-3",
+      "directory": "level06/case00034",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 47,
+      "level": 8,
+      "name": "empty-save",
+      "directory": "level08/case00047",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 48,
+      "level": 8,
+      "name": "empty-load",
+      "directory": "level08/case00048",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 49,
+      "level": 8,
+      "name": "load-modify-save",
+      "directory": "level08/case00049",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 50,
+      "level": 8,
+      "name": "same-load-save-path",
+      "directory": "level08/case00050",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "input.store"
+      ],
+      "exit_code": 0,
+      "save_path": "input.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 51,
+      "level": 8,
+      "name": "loaded-empty-value",
+      "directory": "level08/case00051",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 52,
+      "level": 8,
+      "name": "lowercase-hex-in-text-file",
+      "directory": "level08/case00052",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 53,
+      "level": 8,
+      "name": "case-sensitive-stored",
+      "directory": "level08/case00053",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 54,
+      "level": 8,
+      "name": "long-saved-values",
+      "directory": "level08/case00054",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 58,
+      "level": 8,
+      "name": "invalid-argv-no-args",
+      "directory": "level08/case00058",
+      "argv": [],
+      "exit_code": 2,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 61,
+      "level": 8,
+      "name": "invalid-argv-unknown-flag",
+      "directory": "level08/case00061",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--bogus"
+      ],
+      "exit_code": 2,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 63,
+      "level": 8,
+      "name": "invalid-argv-missing-load-path",
+      "directory": "level08/case00063",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load"
+      ],
+      "exit_code": 2,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 66,
+      "level": 8,
+      "name": "invalid-command-unknown-command",
+      "directory": "level08/case00066",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 67,
+      "level": 8,
+      "name": "invalid-command-missing-value",
+      "directory": "level08/case00067",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 69,
+      "level": 8,
+      "name": "invalid-command-bad-first-key",
+      "directory": "level08/case00069",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 72,
+      "level": 8,
+      "name": "invalid-command-too-long-value",
+      "directory": "level08/case00072",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 78,
+      "level": 8,
+      "name": "invalid-command-empty-value-no-quotes",
+      "directory": "level08/case00078",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 83,
+      "level": 8,
+      "name": "invalid-command-crlf",
+      "directory": "level08/case00083",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 86,
+      "level": 8,
+      "name": "missing-command-file",
+      "directory": "level08/case00086",
+      "argv": [
+        "run",
+        "not-present.txt"
+      ],
+      "exit_code": 1,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 88,
+      "level": 8,
+      "name": "invalid-after-output",
+      "directory": "level08/case00088",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 89,
+      "level": 8,
+      "name": "broken-kvs-wrong-magic",
+      "directory": "level08/case00089",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 101,
+      "level": 8,
+      "name": "broken-kvs-bad-hex",
+      "directory": "level08/case00101",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 120,
+      "level": 9,
+      "name": "quoted-escapes",
+      "directory": "level09/case00120",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store",
+        "--quoted"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 121,
+      "level": 9,
+      "name": "max-decoded-value",
+      "directory": "level09/case00121",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store",
+        "--quoted"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 122,
+      "level": 9,
+      "name": "comments-and-whitespace",
+      "directory": "level09/case00122",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--comments"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 123,
+      "level": 9,
+      "name": "ignore-case-upsert",
+      "directory": "level09/case00123",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store",
+        "--ignore-case"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 124,
+      "level": 9,
+      "name": "case-normalization-file",
+      "directory": "level09/case00124",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--ignore-case"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 125,
+      "level": 9,
+      "name": "all-flags",
+      "directory": "level09/case00125",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--save",
+        "output.store",
+        "--quoted",
+        "--comments",
+        "--ignore-case"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 127,
+      "level": 9,
+      "name": "ignore-case-rename-collision",
+      "directory": "level09/case00127",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--ignore-case"
+      ],
+      "exit_code": 0,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 129,
+      "level": 9,
+      "name": "collision-after-normalization",
+      "directory": "level09/case00129",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--ignore-case"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 130,
+      "level": 9,
+      "name": "invalid-quoted-invalid-escape",
+      "directory": "level09/case00130",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--quoted",
+        "--comments"
+      ],
+      "exit_code": 1,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 131,
+      "level": 9,
+      "name": "invalid-quoted-no-close",
+      "directory": "level09/case00131",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--quoted",
+        "--comments"
+      ],
+      "exit_code": 1,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 139,
+      "level": 9,
+      "name": "comment-without-flag",
+      "directory": "level09/case00139",
+      "argv": [
+        "run",
+        "commands.txt"
+      ],
+      "exit_code": 1,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 151,
+      "level": 10,
+      "name": "empty-binary",
+      "directory": "level10/case00151",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 152,
+      "level": 10,
+      "name": "binary-roundtrip",
+      "directory": "level10/case00152",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 153,
+      "level": 10,
+      "name": "binary-empty-and-special",
+      "directory": "level10/case00153",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 154,
+      "level": 10,
+      "name": "binary-case-normalization",
+      "directory": "level10/case00154",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary",
+        "--ignore-case"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 155,
+      "level": 10,
+      "name": "binary-case-collision",
+      "directory": "level10/case00155",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--binary",
+        "--ignore-case"
+      ],
+      "exit_code": 1,
+      "save_path": null,
+      "expect_saved_file": false,
+      "notes": ""
+    },
+    {
+      "id": 156,
+      "level": 10,
+      "name": "binary-same-path",
+      "directory": "level10/case00156",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "input.store",
+        "--binary"
+      ],
+      "exit_code": 0,
+      "save_path": "input.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 158,
+      "level": 10,
+      "name": "broken-binary-wrong-magic",
+      "directory": "level10/case00158",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 161,
+      "level": 10,
+      "name": "broken-binary-extra-byte",
+      "directory": "level10/case00161",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 162,
+      "level": 10,
+      "name": "broken-binary-truncated-key",
+      "directory": "level10/case00162",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 171,
+      "level": 10,
+      "name": "broken-binary-duplicate",
+      "directory": "level10/case00171",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 172,
+      "level": 10,
+      "name": "broken-binary-unsorted",
+      "directory": "level10/case00172",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 1,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    },
+    {
+      "id": 173,
+      "level": 10,
+      "name": "random-binary-0",
+      "directory": "level10/case00173",
+      "argv": [
+        "run",
+        "commands.txt",
+        "--load",
+        "input.store",
+        "--save",
+        "output.store",
+        "--binary"
+      ],
+      "exit_code": 0,
+      "save_path": "output.store",
+      "expect_saved_file": true,
+      "notes": ""
+    }
+  ]
+}
