@@ -1,15 +1,41 @@
+
 BasedOnStyle: LLVM
 
+# Отступы
 IndentWidth: 4
 TabWidth: 4
 UseTab: Never
 
+# Фигурные скобки
 BreakBeforeBraces: Attach
 
-ColumnLimit: 100
-
+# Пробелы
 SpaceBeforeParens: ControlStatements
+PointerAlignment: Right
+ReferenceAlignment: Pointer
+DerivePointerAlignment: false
 
+# Короткие конструкции
 AllowShortIfStatementsOnASingleLine: Never
 AllowShortLoopsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+
+# Switch
+IndentCaseLabels: false
+IndentCaseBlocks: false
+
+# Переносы строк
+ColumnLimit: 100
+BreakBeforeBinaryOperators: None
+
+# Комментарии
+ReflowComments: false
+
+# Пустые строки
+SeparateDefinitionBlocks: Always
+MaxEmptyLinesToKeep: 1
+KeepEmptyLinesAtTheStartOfBlocks: false
+EmptyLineBeforeAccessModifier: LogicalBlock
+EmptyLineAfterAccessModifier: Never
