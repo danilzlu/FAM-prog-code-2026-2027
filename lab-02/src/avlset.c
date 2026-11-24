@@ -1,9 +1,8 @@
 #include "avlset.h"
 #include <stdlib.h>
 
-/* Define the private tree node type and the contents of AvlSet here. */
 struct AvlSet {
-    /* TODO: choose representation and invariants. */
+    /* TODO: Выбрать представление и инварианты. */
     unsigned char placeholder;
 };
 
