@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     avlset
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A5C, symSize: 0x1B4 }
+  - { offsetInCU: 0x3B, offset: 0x3B, size: 0x8, addend: 0x0, symName: _.str, symObjAddr: 0x240, symBinAddr: 0x100003DA0, symSize: 0x0 }
+  - { offsetInCU: 0x66, offset: 0x66, size: 0x8, addend: 0x0, symName: _.str.1, symObjAddr: 0x280, symBinAddr: 0x100003DE0, symSize: 0x0 }
+  - { offsetInCU: 0x7B, offset: 0x7B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A5C, symSize: 0x1B4 }
+  - { offsetInCU: 0x26, offset: 0x371, size: 0x8, addend: 0x0, symName: _avlset_create, symObjAddr: 0x0, symBinAddr: 0x100003C8C, symSize: 0xC }
+  - { offsetInCU: 0x33, offset: 0x37E, size: 0x8, addend: 0x0, symName: _avlset_create, symObjAddr: 0x0, symBinAddr: 0x100003C8C, symSize: 0xC }
+  - { offsetInCU: 0x4C, offset: 0x397, size: 0x8, addend: 0x0, symName: _avlset_clear, symObjAddr: 0xC, symBinAddr: 0x100003C98, symSize: 0x4 }
+  - { offsetInCU: 0x6F, offset: 0x3BA, size: 0x8, addend: 0x0, symName: _avlset_destroy, symObjAddr: 0x10, symBinAddr: 0x100003C9C, symSize: 0xC }
+  - { offsetInCU: 0x92, offset: 0x3DD, size: 0x8, addend: 0x0, symName: _avlset_insert, symObjAddr: 0x1C, symBinAddr: 0x100003CA8, symSize: 0x4 }
+  - { offsetInCU: 0xC2, offset: 0x40D, size: 0x8, addend: 0x0, symName: _avlset_delete, symObjAddr: 0x20, symBinAddr: 0x100003CAC, symSize: 0x4 }
+  - { offsetInCU: 0xF2, offset: 0x43D, size: 0x8, addend: 0x0, symName: _avlset_exists, symObjAddr: 0x24, symBinAddr: 0x100003CB0, symSize: 0x8 }
+  - { offsetInCU: 0x128, offset: 0x473, size: 0x8, addend: 0x0, symName: _avlset_next, symObjAddr: 0x2C, symBinAddr: 0x100003CB8, symSize: 0x8 }
+  - { offsetInCU: 0x16B, offset: 0x4B6, size: 0x8, addend: 0x0, symName: _avlset_prev, symObjAddr: 0x34, symBinAddr: 0x100003CC0, symSize: 0x8 }
+  - { offsetInCU: 0x1AE, offset: 0x4F9, size: 0x8, addend: 0x0, symName: _avlset_kth, symObjAddr: 0x3C, symBinAddr: 0x100003CC8, symSize: 0x8 }
+  - { offsetInCU: 0x1F1, offset: 0x53C, size: 0x8, addend: 0x0, symName: _avlset_rank, symObjAddr: 0x44, symBinAddr: 0x100003CD0, symSize: 0x8 }
+  - { offsetInCU: 0x227, offset: 0x572, size: 0x8, addend: 0x0, symName: _avlset_range_count, symObjAddr: 0x4C, symBinAddr: 0x100003CD8, symSize: 0x8 }
+  - { offsetInCU: 0x26A, offset: 0x5B5, size: 0x8, addend: 0x0, symName: _avlset_range_sum, symObjAddr: 0x54, symBinAddr: 0x100003CE0, symSize: 0x8 }
+  - { offsetInCU: 0x2AD, offset: 0x5F8, size: 0x8, addend: 0x0, symName: _avlset_delete_range, symObjAddr: 0x5C, symBinAddr: 0x100003CE8, symSize: 0x4 }
+...
